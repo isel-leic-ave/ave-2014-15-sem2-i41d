@@ -7,3 +7,10 @@ class A{
 	}
 
 }
+
+class B{
+
+	C w = new C();
+
+	class C{}
+}
