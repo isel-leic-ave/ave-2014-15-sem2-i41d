@@ -1,8 +1,8 @@
 ﻿|23984|Humberto Pedro Pinto da Silva|0|0|
 |28593|Tiago André da Silva Magalhães|0|0|
 |31124|Daniel José Ferreira Feliciano|0|0|
-|32715|Ricardo Alexandre Colaço Garcia|0|0|
-|33503|Bruno Miguel Guimarães Aires|0|0|
+|32715|Ricardo Alexandre Colaço Garcia|1|0|
+|33503|Bruno Miguel Guimarães Aires|1|0|
 |35372|Hugo Manuel Filipe Lourenco|1|0|
 |35455|José António Baleizão Pica|0|0|
 |35469|Miguel Filipe Marques Pina Coelho|0|0|
@@ -17,10 +17,10 @@
 |37628|João Miguel Alves Pereira|1|0|
 |37659|Luís Alexandre Martins Pinto|0|0|
 |38210|Marco Malaquias Moreira|0|0|
-|38224|Gabriel Filipe Tomé|0|0|
+|38224|Gabriel Filipe Tomé|1|0|
 |38241|Joao Pedro Pina Duarte|0|0|
 |38242|Vítor Emanuel Travassos Antunes|0|0|
-|38245|Henrique Jacinto de Sousa Calhó|0|0|
+|38245|Henrique Jacinto de Sousa Calhó|1|10|
 |38252|Joana Filipa de Oliveira Coelho|0|0|
 |38482|Bruno Miguel Gomes Freitas|0|0|
 |38697|Jurandy Barbosa Vieira dos Santos|0|0|
@@ -35,12 +35,12 @@
 |39377|Júlio Capucho Ramos de Almeida|0|0|
 |39393|Edgar Filipe Moreira Demétrio|0|0|
 |39591|Bruno Miguel Monteiro de Carvalho|0|0|
-|39643|Ronilton Carvalho de Almeida Neves|0|0|
+|39643|Ronilton Carvalho de Almeida Neves|1|0|
 |40292|Nuno José Branco Pinheira Pereira|0|0|
 |40564|Nuno Miguel Afonso Reis|0|0|
 |40595|Afonso Mouraz Farinha Dos Santos|0|0|
 |40640|Alexandre Teixeira de Almeida|1|10|
-|40653|Tiago José Vital Oliveira|0|0|
+|40653|Tiago José Vital Oliveira|1|0|
 |40669|Lourenço Francisco Costa Palma|0|0|
 |40685|Miguel Henrique Germano Garrido|0|0|
 |40699|André Filipe Candeias De Almeida|0|0|
