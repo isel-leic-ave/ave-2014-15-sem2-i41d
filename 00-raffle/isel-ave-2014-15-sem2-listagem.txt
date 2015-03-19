@@ -32,7 +32,7 @@
 |39226|Pedro Diogo Alves de Paiva|1|0|
 |39231|Joao Rafael Soares da Costa|1|0|
 |39243|Cláudia Filipa Lino Soares|1|0|
-|39377|Júlio Capucho Ramos de Almeida|0|0|
+|39377|Júlio Capucho Ramos de Almeida|1|0|
 |39393|Edgar Filipe Moreira Demétrio|1|0|
 |39591|Bruno Miguel Monteiro de Carvalho|1|0|
 |39643|Ronilton Carvalho de Almeida Neves|1|0|
@@ -43,6 +43,6 @@
 |40653|Tiago José Vital Oliveira|1|0|
 |40669|Lourenço Francisco Costa Palma|1|0|
 |40685|Miguel Henrique Germano Garrido|1|0|
-|40699|André Filipe Candeias De Almeida|1|0|
+|40699|André Filipe Candeias De Almeida|2|10|
 |40836|Gonçalo Francisco Simplício do Lugar|1|0|
 |41087|João Nuno Gonçalves Forja|1|10|

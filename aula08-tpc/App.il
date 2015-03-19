@@ -57,10 +57,10 @@
     stloc.0
     ldloc.0
     ldstr      "ola"
-    callvirt   instance void A::Bar(string)
+    call   instance void A::Bar(string)
     ldloc.0
     ldstr      "super"
-    callvirt   instance void A::Foo(string)
+    call   instance void A::Foo(string)
     ret
   } // end of method App::Main
 
