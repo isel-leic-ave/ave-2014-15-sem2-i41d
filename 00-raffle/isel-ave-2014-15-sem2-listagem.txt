@@ -13,7 +13,7 @@
 |36896|Ricardo da Cunha Vaz Ramos|1|0|
 |36919|André Filipe Fraga da Luz|1|0|
 |36921|Francisco do Amaral Pessoa|1|0|
-|36922|João Carlos Costa Almeida|1|0|
+|36922|João Carlos Costa Almeida|1|10|
 |37628|João Miguel Alves Pereira|1|0|
 |37659|Luís Alexandre Martins Pinto|1|0|
 |38210|Marco Malaquias Moreira|1|0|
@@ -37,8 +37,8 @@
 |39591|Bruno Miguel Monteiro de Carvalho|1|0|
 |39643|Ronilton Carvalho de Almeida Neves|1|0|
 |40292|Nuno José Branco Pinheira Pereira|1|0|
-|40564|Nuno Miguel Afonso Reis|1|0|
-|40595|Afonso Mouraz Farinha Dos Santos|1|0|
+|40564|Nuno Miguel Afonso Reis|2|0|
+|40595|Afonso Mouraz Farinha Dos Santos|2|10|
 |40640|Alexandre Teixeira de Almeida|1|10|
 |40653|Tiago José Vital Oliveira|1|0|
 |40669|Lourenço Francisco Costa Palma|1|0|
