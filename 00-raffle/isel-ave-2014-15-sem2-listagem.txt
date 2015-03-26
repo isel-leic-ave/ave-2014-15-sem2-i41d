@@ -5,10 +5,10 @@
 |33503|Bruno Miguel Guimarães Aires|1|0|
 |35372|Hugo Manuel Filipe Lourenco|1|0|
 |35455|José António Baleizão Pica|1|0|
-|35469|Miguel Filipe Marques Pina Coelho|1|0|
+|35469|Miguel Filipe Marques Pina Coelho|2|0|
 |35479|Ana Margarida Soares Sequeira|1|10|
 |35662|Gonçalo Pedro Correia Gonçalves|1|0|
-|36238|Diogo Rafael Esteves Poeira|1|0|
+|36238|Diogo Rafael Esteves Poeira|2|10|
 |36857|Luís Miguel Ferreira Guerreiro|1|0|
 |36896|Ricardo da Cunha Vaz Ramos|1|0|
 |36919|André Filipe Fraga da Luz|1|0|
@@ -17,7 +17,7 @@
 |37628|João Miguel Alves Pereira|1|0|
 |37659|Luís Alexandre Martins Pinto|1|0|
 |38210|Marco Malaquias Moreira|1|0|
-|38224|Gabriel Filipe Tomé|1|0|
+|38224|Gabriel Filipe Tomé|2|0|
 |38241|Joao Pedro Pina Duarte|1|0|
 |38242|Vítor Emanuel Travassos Antunes|1|0|
 |38245|Henrique Jacinto de Sousa Calhó|1|10|
@@ -45,4 +45,4 @@
 |40685|Miguel Henrique Germano Garrido|1|0|
 |40699|André Filipe Candeias De Almeida|2|10|
 |40836|Gonçalo Francisco Simplício do Lugar|1|0|
-|41087|João Nuno Gonçalves Forja|1|10|
+|41087|João Nuno Gonçalves Forja|1|20|
