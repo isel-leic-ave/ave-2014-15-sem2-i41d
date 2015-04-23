@@ -8,11 +8,6 @@ class AppViewer
         Console.WriteLine("{0} ({1}): {2}", title, uri, when);
     }
 
-    public void ViewOnMBox(string title, string uri, DateTime when)
-    {
-        
-    }
-
     static void Main(string[] args)
     {
         DowjonesEventWrapper news = new DowjonesEventWrapper();
