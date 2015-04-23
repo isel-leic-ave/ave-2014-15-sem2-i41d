@@ -1,6 +1,8 @@
 target/
 *.class
 *.dll
+!DowjonesNews.dll
+!RestSharp.dll
 *.exe
 
 
