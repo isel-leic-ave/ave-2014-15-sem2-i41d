@@ -6,7 +6,6 @@ public class DowjonesEventWrapper
 {
     private DowjonesNews news = new DowjonesNews();
 
-
     public void Pull() 
     {
         news.Pull();
@@ -14,17 +13,34 @@ public class DowjonesEventWrapper
 
     public void AddHandler(DowjonesEventHandler handler)
     {
-        // Adds handler as a subscriber to the DowjoneNews news object
-
-        throw new NotSupportedException("Not implemented yet!");
+        news.AddSubscriber(new HandlerAdapter(handler));
     }
 
     public void RemoveHandler(DowjonesEventHandler handler)
     {
-        // Removes handler from the DowjoneNews news object
+        news.RemoveSubscriber(new HandlerAdapter(handler));
+    }    
+}
 
-        throw new NotSupportedException("Not implemented yet!");
+class HandlerAdapter : Subscriber {
+
+    private DowjonesEventHandler handler;
+
+    public HandlerAdapter(DowjonesEventHandler h){ handler = h; }
+
+    public void Occurrence(string title, string uri, DateTime when) {
+        handler(title,uri,when);
     }
 
-    
+    public override bool Equals(object obj) {
+        if (obj == null) {
+            return false;
+        }
+        HandlerAdapter toCompare = obj as HandlerAdapter;
+        return this.handler.Equals(toCompare.handler);
+    }
+
+    public override int GetHashCode() {
+        return this.handler.GetHashCode();
+    }
 }

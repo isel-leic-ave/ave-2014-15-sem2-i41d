@@ -1,48 +1,48 @@
-﻿|23984|Humberto Pedro Pinto da Silva|1|0|
-|28593|Tiago André da Silva Magalhães|1|0|
-|31124|Daniel José Ferreira Feliciano|1|0|
-|32715|Ricardo Alexandre Colaço Garcia|1|0|
-|33503|Bruno Miguel Guimarães Aires|1|0|
-|35372|Hugo Manuel Filipe Lourenco|1|0|
-|35455|José António Baleizão Pica|1|0|
+﻿|23984|Humberto Pedro Pinto da Silva|2|0|
+|28593|Tiago André da Silva Magalhães|2|10|
+|31124|Daniel José Ferreira Feliciano|2|0|
+|32715|Ricardo Alexandre Colaço Garcia|2|0|
+|33503|Bruno Miguel Guimarães Aires|2|0|
+|35372|Hugo Manuel Filipe Lourenco|2|0|
+|35455|José António Baleizão Pica|2|0|
 |35469|Miguel Filipe Marques Pina Coelho|2|0|
-|35479|Ana Margarida Soares Sequeira|1|10|
-|35662|Gonçalo Pedro Correia Gonçalves|1|0|
+|35479|Ana Margarida Soares Sequeira|2|10|
+|35662|Gonçalo Pedro Correia Gonçalves|2|0|
 |36238|Diogo Rafael Esteves Poeira|2|10|
-|36857|Luís Miguel Ferreira Guerreiro|1|0|
-|36896|Ricardo da Cunha Vaz Ramos|1|0|
-|36919|André Filipe Fraga da Luz|1|0|
-|36921|Francisco do Amaral Pessoa|1|0|
+|36857|Luís Miguel Ferreira Guerreiro|2|0|
+|36896|Ricardo da Cunha Vaz Ramos|2|0|
+|36919|André Filipe Fraga da Luz|2|0|
+|36921|Francisco do Amaral Pessoa|2|0|
 |36922|João Carlos Costa Almeida|1|10|
-|37628|João Miguel Alves Pereira|1|0|
-|37659|Luís Alexandre Martins Pinto|1|0|
-|38210|Marco Malaquias Moreira|1|0|
+|37628|João Miguel Alves Pereira|2|0|
+|37659|Luís Alexandre Martins Pinto|2|0|
+|38210|Marco Malaquias Moreira|2|0|
 |38224|Gabriel Filipe Tomé|2|0|
-|38241|Joao Pedro Pina Duarte|1|0|
-|38242|Vítor Emanuel Travassos Antunes|1|0|
-|38245|Henrique Jacinto de Sousa Calhó|1|10|
-|38252|Joana Filipa de Oliveira Coelho|1|0|
-|38482|Bruno Miguel Gomes Freitas|1|0|
-|38697|Jurandy Barbosa Vieira dos Santos|1|0|
-|38851|Ricardo Jorge Gonçalinho Cardoso|1|0|
-|38862|Ivo Alexandre Rodrigues Correia|1|0|
-|39119|Daniel Sobral Silva|1|10|
-|39134|Rúben Miguel Gomes Taborda|1|0|
-|39171|Pedro Miguel Cortiçada Nova|1|0|
-|39226|Pedro Diogo Alves de Paiva|1|0|
-|39231|Joao Rafael Soares da Costa|1|0|
-|39243|Cláudia Filipa Lino Soares|1|0|
-|39377|Júlio Capucho Ramos de Almeida|1|0|
-|39393|Edgar Filipe Moreira Demétrio|1|0|
-|39591|Bruno Miguel Monteiro de Carvalho|1|0|
-|39643|Ronilton Carvalho de Almeida Neves|1|0|
-|40292|Nuno José Branco Pinheira Pereira|1|0|
+|38241|Joao Pedro Pina Duarte|2|0|
+|38242|Vítor Emanuel Travassos Antunes|2|0|
+|38245|Henrique Jacinto de Sousa Calhó|2|10|
+|38252|Joana Filipa de Oliveira Coelho|2|0|
+|38482|Bruno Miguel Gomes Freitas|2|0|
+|38697|Jurandy Barbosa Vieira dos Santos|2|0|
+|38851|Ricardo Jorge Gonçalinho Cardoso|2|0|
+|38862|Ivo Alexandre Rodrigues Correia|2|0|
+|39119|Daniel Sobral Silva|2|20|
+|39134|Rúben Miguel Gomes Taborda|2|0|
+|39171|Pedro Miguel Cortiçada Nova|2|0|
+|39226|Pedro Diogo Alves de Paiva|2|0|
+|39231|Joao Rafael Soares da Costa|2|0|
+|39243|Cláudia Filipa Lino Soares|2|0|
+|39377|Júlio Capucho Ramos de Almeida|2|0|
+|39393|Edgar Filipe Moreira Demétrio|2|0|
+|39591|Bruno Miguel Monteiro de Carvalho|2|0|
+|39643|Ronilton Carvalho de Almeida Neves|2|0|
+|40292|Nuno José Branco Pinheira Pereira|2|0|
 |40564|Nuno Miguel Afonso Reis|2|0|
 |40595|Afonso Mouraz Farinha Dos Santos|2|10|
-|40640|Alexandre Teixeira de Almeida|1|10|
-|40653|Tiago José Vital Oliveira|1|0|
-|40669|Lourenço Francisco Costa Palma|1|0|
-|40685|Miguel Henrique Germano Garrido|1|0|
+|40640|Alexandre Teixeira de Almeida|2|10|
+|40653|Tiago José Vital Oliveira|2|0|
+|40669|Lourenço Francisco Costa Palma|2|0|
+|40685|Miguel Henrique Germano Garrido|2|0|
 |40699|André Filipe Candeias De Almeida|2|10|
-|40836|Gonçalo Francisco Simplício do Lugar|1|0|
+|40836|Gonçalo Francisco Simplício do Lugar|2|0|
 |41087|João Nuno Gonçalves Forja|1|20|
