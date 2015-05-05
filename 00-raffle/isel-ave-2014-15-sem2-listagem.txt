@@ -7,10 +7,10 @@
 |35455|José António Baleizão Pica|2|0|
 |35469|Miguel Filipe Marques Pina Coelho|2|0|
 |35479|Ana Margarida Soares Sequeira|2|10|
-|35662|Gonçalo Pedro Correia Gonçalves|2|0|
+|35662|Gonçalo Pedro Correia Gonçalves|3|0|
 |36238|Diogo Rafael Esteves Poeira|2|10|
 |36857|Luís Miguel Ferreira Guerreiro|2|0|
-|36896|Ricardo da Cunha Vaz Ramos|2|0|
+|36896|Ricardo da Cunha Vaz Ramos|3|10|
 |36919|André Filipe Fraga da Luz|2|0|
 |36921|Francisco do Amaral Pessoa|2|0|
 |36922|João Carlos Costa Almeida|2|10|
@@ -25,11 +25,11 @@
 |38482|Bruno Miguel Gomes Freitas|2|0|
 |38697|Jurandy Barbosa Vieira dos Santos|2|0|
 |38851|Ricardo Jorge Gonçalinho Cardoso|2|0|
-|38862|Ivo Alexandre Rodrigues Correia|2|0|
-|39119|Daniel Sobral Silva|2|20|
+|38862|Ivo Alexandre Rodrigues Correia|3|0|
+|39119|Daniel Sobral Silva|2|25|
 |39134|Rúben Miguel Gomes Taborda|2|0|
 |39171|Pedro Miguel Cortiçada Nova|3|0|
-|39226|Pedro Diogo Alves de Paiva|2|0|
+|39226|Pedro Diogo Alves de Paiva|3|0|
 |39231|Joao Rafael Soares da Costa|2|0|
 |39243|Cláudia Filipa Lino Soares|3|10|
 |39377|Júlio Capucho Ramos de Almeida|2|0|
