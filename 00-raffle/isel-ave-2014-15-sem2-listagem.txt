@@ -22,7 +22,7 @@
 |38242|Vítor Emanuel Travassos Antunes|2|0|
 |38245|Henrique Jacinto de Sousa Calhó|2|10|
 |38252|Joana Filipa de Oliveira Coelho|2|0|
-|38482|Bruno Miguel Gomes Freitas|2|0|
+|38482|Bruno Miguel Gomes Freitas|2|10|
 |38697|Jurandy Barbosa Vieira dos Santos|2|0|
 |38851|Ricardo Jorge Gonçalinho Cardoso|2|0|
 |38862|Ivo Alexandre Rodrigues Correia|3|0|
