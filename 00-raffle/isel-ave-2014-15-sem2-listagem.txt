@@ -39,7 +39,7 @@
 |40292|Nuno José Branco Pinheira Pereira|3|0|
 |40564|Nuno Miguel Afonso Reis|3|0|
 |40595|Afonso Mouraz Farinha Dos Santos|2|10|
-|40640|Alexandre Teixeira de Almeida|2|10|
+|40640|Alexandre Teixeira de Almeida|3|20|
 |40653|Tiago José Vital Oliveira|3|0|
 |40669|Lourenço Francisco Costa Palma|3|0|
 |40685|Miguel Henrique Germano Garrido|3|0|
