@@ -29,17 +29,17 @@ public class DowjonesNews
 {
     private readonly DateTime start = new DateTime(1970, 1, 1, 0, 0, 0, DateTimeKind.Utc);
     private readonly RestClient client = new RestClient("http://api.monitr.com/api/v1");
-    private DowjonesEventHandler DowjonesEvent;
+    private DowjonesEventHandler handlers;
     
     public event DowjonesEventHandler DowjonesEvent{
         add{ 
-            if(DowjonesEvent != null)
-                foreach(DowjonesEventHandler h in DowjonesEvent.GetInvocationList())
+            if(handlers != null)
+                foreach(DowjonesEventHandler h in handlers.GetInvocationList())
                     if(h.Equals(value))
                         return;
-            DowjonesEvent += value; // Daria ciclo infinito
+            handlers += value; 
         }
-        remove{ DowjonesEvent -= value;}
+        remove{ handlers -= value;}
     }
     
     public void Pull()
@@ -53,10 +53,10 @@ public class DowjonesNews
     void NotifySubscribers(MonitrRespData news)
     {
         DateTime date = start.AddMilliseconds(news.Time).ToLocalTime();
-        if(DowjonesEvent != null)
-            foreach(DowjonesEventHandler h in DowjonesEvent.GetInvocationList()){
+        if(handlers != null)
+            foreach(DowjonesEventHandler h in handlers.GetInvocationList()){
                 h(news.Title, news.Link, date);
-                DowjonesEvent -= h; 
+                handlers -= h; 
             }
     }
 }
