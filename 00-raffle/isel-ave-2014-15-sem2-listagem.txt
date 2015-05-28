@@ -21,7 +21,7 @@
 |38241|Joao Pedro Pina Duarte|3|0|
 |38242|Vítor Emanuel Travassos Antunes|3|0|
 |38245|Henrique Jacinto de Sousa Calhó|2|10|
-|38252|Joana Filipa de Oliveira Coelho|3|0|
+|38252|Joana Filipa de Oliveira Coelho|3|10|
 |38482|Bruno Miguel Gomes Freitas|3|10|
 |38697|Jurandy Barbosa Vieira dos Santos|3|0|
 |38851|Ricardo Jorge Gonçalinho Cardoso|3|0|
@@ -38,11 +38,11 @@
 |39643|Ronilton Carvalho de Almeida Neves|3|0|
 |40292|Nuno José Branco Pinheira Pereira|3|0|
 |40564|Nuno Miguel Afonso Reis|3|0|
-|40595|Afonso Mouraz Farinha Dos Santos|2|10|
+|40595|Afonso Mouraz Farinha Dos Santos|2|20|
 |40640|Alexandre Teixeira de Almeida|3|20|
 |40653|Tiago José Vital Oliveira|3|0|
 |40669|Lourenço Francisco Costa Palma|3|0|
 |40685|Miguel Henrique Germano Garrido|3|0|
 |40699|André Filipe Candeias De Almeida|3|20|
 |40836|Gonçalo Francisco Simplício do Lugar|3|0|
-|41087|João Nuno Gonçalves Forja|2|20|
+|41087|João Nuno Gonçalves Forja|2|30|
