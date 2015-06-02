@@ -3,6 +3,7 @@ using System;
 using System.Linq;
 using System.Collections.Generic;
 using System.Windows.Forms;
+using System.Runtime.CompilerServices;
 
 class AppViewer
 {
@@ -14,11 +15,12 @@ class AppViewer
     {
         DowjonesNews news = new DowjonesNews();
         DowjonesEventHandler h1 = ViewOnConsole;
-        DowjonesEventHandler h2 = (t, uri, dt) => MessageBox.Show(String.Format("{0} ({1}): {2}", t, uri, dt));
+        DowjonesEventHandler h2 = WorkingFixToH2;
         news.DowjonesEvent += h1; // != de += do Delegate.    => add_DowjonesEvent()
         news.DowjonesEvent += h2; // add_DowjonesEvent()
         news.DowjonesEvent += h2; // add_DowjonesEvent()
-        news.Pull(); // Chamados e Removidos
+        news.Pull(); 
+        Console.WriteLine(news.HandlersCount);
         
         /* 
          * h2 deve ser removido como handler de DowjonesEvent porque não é mais 
@@ -28,7 +30,12 @@ class AppViewer
         
         news.Pull();
         
+        Console.WriteLine(news.HandlersCount);
         h1.GetHashCode();
+    }
+
+    static void WorkingFixToH2(string title, string uri, DateTime when){
+         MessageBox.Show(String.Format("{0} ({1}): {2}", title, uri, when));
     }
 }
     
@@ -38,18 +45,15 @@ public class DowjonesNews
 {
     private readonly DateTime start = new DateTime(1970, 1, 1, 0, 0, 0, DateTimeKind.Utc);
     private readonly RestClient client = new RestClient("http://api.monitr.com/api/v1");
-    private DowjonesEventHandler handlers;
+    private readonly HashSet<WeakReference<DowjonesEventHandler>> handlersList = new HashSet<WeakReference<DowjonesEventHandler>>(new RefComparer());
     
     public event DowjonesEventHandler DowjonesEvent{
-        add{ 
-            if(handlers != null)
-                foreach(DowjonesEventHandler h in handlers.GetInvocationList())
-                    if(h.Equals(value))
-                        return;
-            handlers += value; 
-        }
-        remove{ handlers -= value;}
+        add{handlersList.Add(new WeakReference<DowjonesEventHandler>(value));}
+        remove { handlersList.Remove(new WeakReference<DowjonesEventHandler>(value)); }
+       
     }
+    
+    public int HandlersCount { get{ return handlersList.Count; }}
     
     public void Pull()
     {
@@ -62,10 +66,22 @@ public class DowjonesNews
     void NotifySubscribers(MonitrRespData news)
     {
         DateTime date = start.AddMilliseconds(news.Time).ToLocalTime();
-        if(handlers != null)
-            foreach(DowjonesEventHandler h in handlers.GetInvocationList()){
-                h(news.Title, news.Link, date);
+
+        List<WeakReference<DowjonesEventHandler>> toClean = new List<WeakReference<DowjonesEventHandler>> ();
+        foreach (WeakReference<DowjonesEventHandler> h in handlersList)
+        {
+            DowjonesEventHandler res;
+            if (h.TryGetTarget(out res) && res != null)
+            {
+                res(news.Title, news.Link, date);
+            } else {
+                toClean.Add(h);
             }
+        }
+        
+        foreach (WeakReference<DowjonesEventHandler> h in toClean) {
+            handlersList.Remove(h);
+        }
     }
 }
 
@@ -84,4 +100,26 @@ class MonitrRespData
     public long Time { get; set; }
     public string Domain { get; set; }
 
+}
+
+class RefComparer : IEqualityComparer<WeakReference<DowjonesEventHandler>>
+{
+    public bool Equals(WeakReference<DowjonesEventHandler> ref1, WeakReference<DowjonesEventHandler> ref2)
+    {
+        DowjonesEventHandler handler1;
+        bool ref1HaveTarget = ref1.TryGetTarget(out handler1) && handler1 != null;
+        DowjonesEventHandler handler2;
+        bool ref2HaveTarget = ref2.TryGetTarget(out handler2) && handler2 != null;
+
+        if (ref1HaveTarget && ref2HaveTarget) return handler1.Equals(handler2);
+        else if (!ref1HaveTarget && !ref2HaveTarget) return true;
+        else return false;
+    }
+
+
+    public int GetHashCode(WeakReference<DowjonesEventHandler> arg)
+    {
+        DowjonesEventHandler handler;
+        return arg.TryGetTarget(out handler) && handler != null ? handler.GetHashCode() : 0;
+    }
 }

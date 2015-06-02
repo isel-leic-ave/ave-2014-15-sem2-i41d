@@ -6,7 +6,7 @@
 |35372|Hugo Manuel Filipe Lourenco|3|0|
 |35455|José António Baleizão Pica|3|0|
 |35469|Miguel Filipe Marques Pina Coelho|3|0|
-|35479|Ana Margarida Soares Sequeira|2|10|
+|35479|Ana Margarida Soares Sequeira|3|10|
 |35662|Gonçalo Pedro Correia Gonçalves|3|0|
 |36238|Diogo Rafael Esteves Poeira|3|20|
 |36857|Luís Miguel Ferreira Guerreiro|3|0|
@@ -20,7 +20,7 @@
 |38224|Gabriel Filipe Tomé|3|0|
 |38241|Joao Pedro Pina Duarte|3|0|
 |38242|Vítor Emanuel Travassos Antunes|3|0|
-|38245|Henrique Jacinto de Sousa Calhó|2|10|
+|38245|Henrique Jacinto de Sousa Calhó|3|10|
 |38252|Joana Filipa de Oliveira Coelho|3|10|
 |38482|Bruno Miguel Gomes Freitas|3|10|
 |38697|Jurandy Barbosa Vieira dos Santos|3|0|
@@ -38,7 +38,7 @@
 |39643|Ronilton Carvalho de Almeida Neves|3|0|
 |40292|Nuno José Branco Pinheira Pereira|3|0|
 |40564|Nuno Miguel Afonso Reis|3|0|
-|40595|Afonso Mouraz Farinha Dos Santos|2|20|
+|40595|Afonso Mouraz Farinha Dos Santos|3|30|
 |40640|Alexandre Teixeira de Almeida|3|20|
 |40653|Tiago José Vital Oliveira|3|0|
 |40669|Lourenço Francisco Costa Palma|3|0|
