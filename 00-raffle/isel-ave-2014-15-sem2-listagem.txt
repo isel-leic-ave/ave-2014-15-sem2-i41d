@@ -26,7 +26,7 @@
 |38697|Jurandy Barbosa Vieira dos Santos|3|0|
 |38851|Ricardo Jorge Gonçalinho Cardoso|3|0|
 |38862|Ivo Alexandre Rodrigues Correia|3|0|
-|39119|Daniel Sobral Silva|2|25|
+|39119|Daniel Sobral Silva|3|25|
 |39134|Rúben Miguel Gomes Taborda|3|0|
 |39171|Pedro Miguel Cortiçada Nova|3|0|
 |39226|Pedro Diogo Alves de Paiva|3|0|
@@ -45,4 +45,4 @@
 |40685|Miguel Henrique Germano Garrido|3|0|
 |40699|André Filipe Candeias De Almeida|3|20|
 |40836|Gonçalo Francisco Simplício do Lugar|3|0|
-|41087|João Nuno Gonçalves Forja|2|30|
+|41087|João Nuno Gonçalves Forja|3|40|
