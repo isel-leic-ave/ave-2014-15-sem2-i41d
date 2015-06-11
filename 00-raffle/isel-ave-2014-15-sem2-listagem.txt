@@ -1,9 +1,9 @@
-﻿|23984|Humberto Pedro Pinto da Silva|3|0|
+﻿|23984|Humberto Pedro Pinto da Silva|4|0|
 |28593|Tiago André da Silva Magalhães|3|10|
 |31124|Daniel José Ferreira Feliciano|3|0|
 |32715|Ricardo Alexandre Colaço Garcia|3|0|
 |33503|Bruno Miguel Guimarães Aires|3|0|
-|35372|Hugo Manuel Filipe Lourenco|3|0|
+|35372|Hugo Manuel Filipe Lourenco|4|0|
 |35455|José António Baleizão Pica|3|0|
 |35469|Miguel Filipe Marques Pina Coelho|3|0|
 |35479|Ana Margarida Soares Sequeira|3|10|
@@ -11,38 +11,38 @@
 |36238|Diogo Rafael Esteves Poeira|3|20|
 |36857|Luís Miguel Ferreira Guerreiro|3|0|
 |36896|Ricardo da Cunha Vaz Ramos|3|10|
-|36919|André Filipe Fraga da Luz|3|0|
+|36919|André Filipe Fraga da Luz|4|0|
 |36921|Francisco do Amaral Pessoa|3|0|
 |36922|João Carlos Costa Almeida|3|10|
-|37628|João Miguel Alves Pereira|3|0|
+|37628|João Miguel Alves Pereira|4|0|
 |37659|Luís Alexandre Martins Pinto|3|0|
-|38210|Marco Malaquias Moreira|3|0|
+|38210|Marco Malaquias Moreira|4|0|
 |38224|Gabriel Filipe Tomé|3|0|
 |38241|Joao Pedro Pina Duarte|3|0|
 |38242|Vítor Emanuel Travassos Antunes|3|0|
 |38245|Henrique Jacinto de Sousa Calhó|3|10|
 |38252|Joana Filipa de Oliveira Coelho|3|10|
 |38482|Bruno Miguel Gomes Freitas|3|10|
-|38697|Jurandy Barbosa Vieira dos Santos|3|0|
+|38697|Jurandy Barbosa Vieira dos Santos|4|0|
 |38851|Ricardo Jorge Gonçalinho Cardoso|3|0|
 |38862|Ivo Alexandre Rodrigues Correia|3|0|
 |39119|Daniel Sobral Silva|3|25|
 |39134|Rúben Miguel Gomes Taborda|3|0|
-|39171|Pedro Miguel Cortiçada Nova|3|0|
-|39226|Pedro Diogo Alves de Paiva|3|0|
+|39171|Pedro Miguel Cortiçada Nova|4|0|
+|39226|Pedro Diogo Alves de Paiva|4|0|
 |39231|Joao Rafael Soares da Costa|3|0|
 |39243|Cláudia Filipa Lino Soares|3|10|
 |39377|Júlio Capucho Ramos de Almeida|3|0|
-|39393|Edgar Filipe Moreira Demétrio|3|0|
+|39393|Edgar Filipe Moreira Demétrio|4|0|
 |39591|Bruno Miguel Monteiro de Carvalho|3|0|
 |39643|Ronilton Carvalho de Almeida Neves|3|0|
-|40292|Nuno José Branco Pinheira Pereira|3|0|
+|40292|Nuno José Branco Pinheira Pereira|4|10|
 |40564|Nuno Miguel Afonso Reis|3|0|
 |40595|Afonso Mouraz Farinha Dos Santos|3|30|
 |40640|Alexandre Teixeira de Almeida|3|20|
 |40653|Tiago José Vital Oliveira|3|0|
-|40669|Lourenço Francisco Costa Palma|3|0|
-|40685|Miguel Henrique Germano Garrido|3|0|
+|40669|Lourenço Francisco Costa Palma|4|0|
+|40685|Miguel Henrique Germano Garrido|4|0|
 |40699|André Filipe Candeias De Almeida|3|20|
-|40836|Gonçalo Francisco Simplício do Lugar|3|0|
+|40836|Gonçalo Francisco Simplício do Lugar|4|0|
 |41087|João Nuno Gonçalves Forja|3|40|

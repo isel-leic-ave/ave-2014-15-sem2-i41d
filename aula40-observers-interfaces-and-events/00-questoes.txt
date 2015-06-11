@@ -1,0 +1,11 @@
+Se Observer deixar de ser interface e passar a ter a definição: delegate void Observer(DateTime current);
+
+a.	Escreva as alterações necessárias aos métodos de Alarm, SEM modificar/acrescentar campos, NEM assinaturas dos métodos.
+
+b.	Tendo a classe ConsoleWriter a mesma definição (mas sem “: Observer”), escreva quais as alterações ao método Main para que mantenha o mesmo comportamento/resultado anterior.
+
+c.	Escreva as alterações necessárias aos métodos de Alarm, SEM modificar as suas assinaturas, caso o campo obs passe a ser definido como: private Observer obs;
+
+d.	Dada a implementação dos métodos que fez na alínea c), se SUBSTITUIRMOS a definição do campo obs por: private event Observer obs; justifique se é necessária alguma alteração à implementação dos métodos anteriores para que a classe Alarm compile e mantenha o mesmo comportamento?
+
+e.	Compare as duas abordagens c) e d), justificando por qual delas optaria.
